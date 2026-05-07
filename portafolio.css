@@ -1,0 +1,24 @@
+@charset "utf-8";
+.miniautura {
+	height: 160px;
+	width: 160px;
+	border: 5px solid #3D2AE5;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.miniatura:hover {
+	height: 160px;
+	width: 160px;
+	border: 5px solid #7A06FF;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.miniautura a img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
